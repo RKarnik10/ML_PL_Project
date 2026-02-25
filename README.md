@@ -30,7 +30,7 @@ PL ML Random Forest Project
 
 ---
 
-# Conversion to XGBoost
+### Conversion to XGBoost
 
 XGBoost in SciKitLearn Changes
 
@@ -44,7 +44,7 @@ XGBoost in SciKitLearn Changes
         - `num_class=3`
 
 ### **Notes for differences:
-XGBoost vs Random Forest (brief)**
+XGBoost vs Random Forest**
 
 **Random Forest**
 
