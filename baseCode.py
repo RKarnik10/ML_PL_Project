@@ -382,8 +382,8 @@ def main():
     print("-" * 60)
 
     prediction, probabilities = predictor.predict_match(
-        home_team='Leeds',
-        away_team='Liverpool'
+        home_team='Fulham',
+        away_team='Leeds'
     )
 
     return predictor

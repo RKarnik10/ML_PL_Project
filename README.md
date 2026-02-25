@@ -41,3 +41,4 @@ Edit `main()` in `baseCode.py` and replace the `home_team` and `away_team` argum
 ## Notes
 - `.venv/` is ignored via `.gitignore`; don't commit your virtualenv.
 - If Plotly windows don't appear, ensure you're running in an environment that can open browser windows.
+- https://www.youtube.com/watch?v=3pnkARyrtMo&list=PLedeYskZY0vBOdQ6Uc9eZjZ2-nz1JT3R7&index=12 - Youtube link for match predictions
