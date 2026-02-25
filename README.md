@@ -1,7 +1,7 @@
 # ML_PL_Project
 PL ML Random Forest Project
 
-###Notes:
+# Notes:
 ## Original Base code
 
 1. Beginning
@@ -75,6 +75,6 @@ XGBoost vs Random Forest (brief)**
 
 - Switch to a time-based split (look more into)
 
-###Future Steps:
+# Future Steps:
 - Look into dashboards (streamlit - Python library)
 - Look into changes
