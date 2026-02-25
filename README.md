@@ -78,3 +78,5 @@ XGBoost vs Random Forest**
 ## Future Steps:
 - Look into dashboards (streamlit - Python library)
 - Look into changes
+- Learn APIs + ReactJS
+- Fix Kailedo
