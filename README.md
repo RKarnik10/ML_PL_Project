@@ -1,8 +1,8 @@
 # ML_PL_Project
 PL ML Random Forest Project
 
-# Notes:
-## Original Base code
+## Notes:
+### Original Base code
 
 1. Beginning
 - uses pandas and RF Classification to create a base model and data of all season matches
@@ -43,7 +43,7 @@ XGBoost in SciKitLearn Changes
     - Setting 3 outcomes
         - `num_class=3`
 
-## **Notes for differences:
+### **Notes for differences:
 XGBoost vs Random Forest (brief)**
 
 **Random Forest**
@@ -61,12 +61,12 @@ XGBoost vs Random Forest (brief)**
 - Pros: often higher accuracy, better probability modeling, lots of regularization + early stopping.
 - Cons: more hyperparameters, can overfit if you’re sloppy, needs careful validation (time-based split).
 
-## Changes
+### Changes
 
 - Changed to take form of last 10 matches, not just 5 (overly form dependent had leeds as a favorite)
 - Did not just use last 100 games as pool
 
-## Possible Changes to Consider
+### Possible Changes to Consider
 
 - Include more features (already calculated): goals_away, and conceded h/w
 - Consider short term form (5) and longer form (15 matches) with manual or xgboost model weights
@@ -75,6 +75,6 @@ XGBoost vs Random Forest (brief)**
 
 - Switch to a time-based split (look more into)
 
-# Future Steps:
+## Future Steps:
 - Look into dashboards (streamlit - Python library)
 - Look into changes
