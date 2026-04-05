@@ -1,0 +1,26 @@
+Changes applied to model:
+
+Possible Changes to Consider
+* Include more features (already calculated): goals_away, and conceded h/w
+* Consider short term form (5) and longer form (15 matches) with manual or xgboost model weights
+* Include 22-23, 23-24 season, mostly for training data (watch overfitting)
+* Add team one-hot columns
+* Switch to a time-based split (look more into)
+Future Steps:
+* Look into dashboards (streamlit - Python library)
+* Look into changes
+* Learn APIs + ReactJS
+* Fix Kailedo
+
+
+On these changes, I worked on:
+- Creating short and longer-term form parts
+- time-series split
+- One-hot columns
+
+still reviewing the processes and proper modification for these
+including the 22-23 and 23-24 data for historical data, give background on teams like Leeds and Burnley
+
+To be done:
+Work on dashboards, learn how to use streamlit or docker or some form of api, upload models here. 
+Looking into player data, and how to work with individual and team stats. Predict stats maybe, less of a priority than intended fits. 
